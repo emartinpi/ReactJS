@@ -1,0 +1,15 @@
+﻿body {
+    font-family: 'Segoe UI', sans-serif;
+}
+
+span {
+    font-style: italic;
+}
+
+.note-list {
+    box-shadow: rgba(0,0,0,0.1) 0px 10px 5px;
+}
+
+.note-summary{
+    border-bottom:1px rgba(0,0,0,0.2)  solid;
+}

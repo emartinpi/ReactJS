@@ -1,0 +1,6 @@
+d:\edu martin\documents\visual studio 2013\Projects\React\ReactApp1\bin\ReactApp1.dll.config
+d:\edu martin\documents\visual studio 2013\Projects\React\ReactApp1\bin\ReactApp1.dll
+d:\edu martin\documents\visual studio 2013\Projects\React\ReactApp1\bin\ReactApp1.pdb
+d:\edu martin\documents\visual studio 2013\Projects\React\ReactApp1\obj\Debug\ReactApp1.csprojResolveAssemblyReference.cache
+d:\edu martin\documents\visual studio 2013\Projects\React\ReactApp1\obj\Debug\ReactApp1.dll
+d:\edu martin\documents\visual studio 2013\Projects\React\ReactApp1\obj\Debug\ReactApp1.pdb
